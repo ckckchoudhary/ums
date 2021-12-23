@@ -1,0 +1,20 @@
+.user-form-wrapper{
+    max-width: 500px;
+    box-shadow: 2px 2px 2px lightgrey;
+    padding: 20px;
+
+}
+
+.modal-inner-wrapper{
+    min-width: 200px;
+    min-height: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-page-header{
+    display: flex;
+    justify-content: space-between;
+}
